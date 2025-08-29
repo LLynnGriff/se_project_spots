@@ -15,6 +15,6 @@ A website designed to share images with others, accessible from a variety of scr
 ## Deployment
 
 This website is deployed to GitHub Pages
-* Deployment Link 
+* https://llynngriff.github.io/se_project_spots/ 
 
 ### Hope you enjoy this project! 
